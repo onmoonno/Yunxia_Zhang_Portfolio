@@ -1,5 +1,5 @@
-# Yunxia_Zhang_Portfolio
-Computer Science Portfolio
+# Yunxia Zhang Computer Science Portfolio
+
 
 # Data Science Projects
 
