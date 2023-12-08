@@ -1,6 +1,3 @@
-# Yunxia Zhang Computer Science Portfolio
-
-
 # Data Science Projects
 
 # [Project 1: Glucose Levels in Artificial Pancreas](https://github.com/onmoonno/Data-Mining-Project-Glucose-Levels-in-Artificial-Pancreas) 
