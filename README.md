@@ -13,7 +13,7 @@ Computer Science Portfolio
 ![](/images/positions_by_state.png)
 
 
-# [Project 2: Critical Factors of US Individual Salary]([https://github.com/PlayingNumbers/ball_image_classifier](https://github.com/onmoonno/Critical-Factors-of-US-Individual-Salary) 
+# [Project 2: Critical Factors of US Individual Salary](https://github.com/PlayingNumbers/ball_image_classifier](https://github.com/onmoonno/Critical-Factors-of-US-Individual-Salary) 
 The primary goal of this project was to provide data-driven insights for the UVW marketing team to help them better understand their target market and support them in making informed decisions. Various exploratory data analysis methods were used to analyze the relationship between variables and locate the critical factors affecting individual salaries.
 
 ![](https://github.com/onmoonno/Critical-Factors-of-US-Individual-Salary/blob/main/figure2.png)
