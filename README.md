@@ -14,6 +14,11 @@ The primary goal of this project was to provide data-driven insights for the UVW
 * Refactored the codebase with Factory and Strategy design pattern for multiple product creation and manipulation.
 * Implemented unit tests and added new functionality using test-driven development.
 
+## System Design
+Class diagram of the newly designed system with Factory and Strategy design parttern.
+
+![alt text](https://github.com/onmoonno/forage-lyft-starter-repo/blob/main/Class%20Diagram.png)
+
 ## Code and Resources Used 
 
 **Python Version:** 3.11  
@@ -23,11 +28,6 @@ The primary goal of this project was to provide data-driven insights for the UVW
 **Scraper Github:** https://vagabond-systems/forage-lyft-starter-repo 
 
 **Scraper Website:** https://www.theforage.com/virtual-experience
-
-## System Design
-Class diagram of the newly designed system with Factory and Strategy design parttern.
-
-![alt text](https://github.com/onmoonno/forage-lyft-starter-repo/blob/main/Class%20Diagram.png)
 
 # Data Science Projects
 
