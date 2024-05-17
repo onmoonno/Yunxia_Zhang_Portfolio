@@ -7,7 +7,7 @@ The primary goal of this project was to provide data-driven insights for the UVW
 
 # Software Development Projects
 
-# [Project 1: Lyft Back-End Engineering Job Simulation](https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/03679578-643f-4e96-a37d-f7ab3390b510](https://github.com/onmoonno/forage-lyft-starter-repo)
+# [Project 1: Lyft Back-End Engineering Job Simulation](https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/03679578-643f-4e96-a37d-f7ab3390b510)
 # Lyft Back-End Engineer: Project Overview 
 * Designed a robust and extendable system to determine whether vehicles in Lyft’s new rental fleet should be serviced.
 * Drafted a UML class diagram representing a new reorganized architecture.
