@@ -48,13 +48,23 @@ https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/be25bdb9-901
 ![alt text](https://github.com/onmoonno/Sport-Concussion-Assessment-System/blob/main/Use%20Case%20Diagram.png)
 ![alt text](https://github.com/onmoonno/Sport-Concussion-Assessment-System/blob/main/Class%20diagram.png)
 
-  
-# [Project 3: Lyft Back-End Engineering Job Simulation](https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/03679578-643f-4e96-a37d-f7ab3390b510)
+
+# [Project 3: Directory Management System](https://github.com/onmoonno/Directory-Management-System/tree/main)
 
 * Designed a robust and extendable system to determine whether vehicles in Lyft’s new rental fleet should be serviced.
 * Drafted a UML class diagram representing a new reorganized architecture.
 * Refactored the codebase with Factory and Strategy design pattern for multiple product creation and manipulation.
 * Implemented unit tests and added new functionality using test-driven development.
+
+![alt text](https://github.com/onmoonno/Directory-Management-System/blob/main/Phase%202%20class%20diagram2.png)
+
+  
+# [Project 4: Lyft Back-End Engineering Job Simulation](https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/03679578-643f-4e96-a37d-f7ab3390b510)
+
+* Evaluated and refactored the Personnel Directory Management System, addressing object-oriented design violations and coupling issues to enhance system quality and modifiability.
+* Implemented the factory pattern in Java's PersonnelFactory class, reducing dependencies and promoting flexibility for accommodating additional personnel types.
+* Developed modularized system components, including PersonnelDirectory and Concrete classes, to maintain original functionality while improving efficiency and scalability.
+* Acquired skills in UML class diagram evaluation, identifying and resolving object-oriented design violations, and applying design patterns for more robust software solutions.
 
 ![alt text](https://github.com/onmoonno/forage-lyft-starter-repo/blob/main/Class%20Diagram.png)
 
