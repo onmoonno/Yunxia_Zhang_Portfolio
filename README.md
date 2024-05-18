@@ -17,7 +17,15 @@ https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/ddea9a43-e42
   
 ![image](https://github.com/onmoonno/eCommerce-Platform/blob/main/frontend/public/images/screens.png)
 
-
+# [Project 3: Local Class MERN](https://github.com/onmoonno/Local-Class) 
+* Create user interfaces with React & React Bootstrap UI library.
+* Manage state elegantly with Redux & Redux Toolkit.
+* Create an advanced API with Node.js, Express & MongoDB.
+* Authentication with JWT & HTTP-Only cookies.
+* Custom middleware for error handling, auth & more.
+* Mongoose models, controllers & routes.
+* Full stack structure & workflow.
+* Deploy to production, setup domain, SSL, etc.
 
 # Software Development Projects
 
