@@ -1,6 +1,6 @@
 # Web Development Projects
 
-# [Project 1: Cookful](https://github.com/onmoonno/Cookful-Project) 
+# [Project 1: Cookful Full Stack Web Development](https://github.com/onmoonno/Cookful-Project) 
 *	Led a team in building React Web App, focused on optimizing customer satisfaction.
 *	Developed robust backend APIs using Node.js/Express and the Sequelize, ensured seamless database operations and efficient CRUD functionality through rigorous testing.
 *	Introduced user-friendly filters for customized search experiences and improved overall usability through intuitive UI enhancements.
@@ -9,6 +9,13 @@
 
 https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/ddea9a43-e421-4877-99ab-367caa82f5f5
 
+
+# [Project 2: eCommerce Platform MERN](https://github.com/onmoonno/eCommerce-Platform) 
+*	Built a custom eCommerce platform with React, Redux, Node, Express and MongoDB, featuring product search, carousel, pagination and more.
+*	Authenticated with JWT & HTTP cookies, admining customers, products and orders.
+*	Full featured shopping cart with PayPal & credit/debit payments.
+  
+![image](https://github.com/onmoonno/eCommerce-Platform/blob/main/frontend/public/images/screens.png)
 
 
 
