@@ -1,9 +1,16 @@
 # Web Development Projects
 
-# [Project 2: Critical Factors of US Individual Salary](https://github.com/onmoonno/Critical-Factors-of-US-Individual-Salary) 
-The primary goal of this project was to provide data-driven insights for the UVW marketing team to help them better understand their target market and support them in making informed decisions. Various exploratory data analysis methods were used to analyze the relationship between variables and locate the critical factors affecting individual salaries.
+# [Project 1: Cookful](https://github.com/onmoonno/Cookful-Project) 
+*	Led a team in building React Web App, focused on optimizing customer satisfaction.
+*	Developed robust backend APIs using Node.js/Express and the Sequelize, ensured seamless database operations and efficient CRUD functionality through rigorous testing.
+*	Introduced user-friendly filters for customized search experiences and improved overall usability through intuitive UI enhancements.
+*	Enhanced visual appeal and streamlined image retrieval through AWS S3 integration.
 
-![](https://github.com/onmoonno/Critical-Factors-of-US-Individual-Salary/blob/main/figure2.png)
+
+https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/ddea9a43-e421-4877-99ab-367caa82f5f5
+
+
+
 
 # Software Development Projects
 
