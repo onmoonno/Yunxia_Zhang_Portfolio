@@ -6,7 +6,6 @@
 *	Introduced user-friendly filters for customized search experiences and improved overall usability through intuitive UI enhancements.
 *	Enhanced visual appeal and streamlined image retrieval through AWS S3 integration.
 
-
 https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/ddea9a43-e421-4877-99ab-367caa82f5f5
 
 
@@ -16,6 +15,7 @@ https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/ddea9a43-e42
 *	Full featured shopping cart with PayPal & credit/debit payments.
   
 ![image](https://github.com/onmoonno/eCommerce-Platform/blob/main/frontend/public/images/screens.png)
+
 
 # [Project 3: Local Class MERN](https://github.com/onmoonno/Local-Class) 
 * Create user interfaces with React & React Bootstrap UI library.
@@ -35,13 +35,21 @@ https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/ddea9a43-e42
 * Developed an iOS app in Swift with MVC architecture, featuring an intuitive user interface for data input, information retrieval, and web page access.
 * Employed Azure Virtual Machine for VS, facilitating cross-platform development.
 
-
-
 https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/be25bdb9-9018-4275-8586-35cafd6413af
 
 
+# [Project 2: Sport-Concussion-Assessment-System](https://github.com/onmoonno/Sport-Concussion-Assessment-System)
+
+* Applied object-oriented analysis and design (OOAD) methodologies to model system structure and behavior, employing use-case diagrams, CRC diagrams, and class diagrams.
+* Developed proficiency in foundational OOAD principles, enhancing understanding of object-oriented analysis modeling approaches.
+* Gained practical experience in utilizing Astah and Draw.io for UML documentation, streamlining the process of capturing system requirements and design.
+* Acquired hands-on skills in Java programming for implementing console applications, featuring symptom input, severity evaluation, and risk assessment.
+
+![alt text](https://github.com/onmoonno/Sport-Concussion-Assessment-System/blob/main/Use%20Case%20Diagram.png)
+![alt text](https://github.com/onmoonno/Sport-Concussion-Assessment-System/blob/main/Class%20diagram.png)
+
   
-# [Project 2: Lyft Back-End Engineering Job Simulation](https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/03679578-643f-4e96-a37d-f7ab3390b510)
+# [Project 3: Lyft Back-End Engineering Job Simulation](https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/03679578-643f-4e96-a37d-f7ab3390b510)
 
 * Designed a robust and extendable system to determine whether vehicles in Lyft’s new rental fleet should be serviced.
 * Drafted a UML class diagram representing a new reorganized architecture.
