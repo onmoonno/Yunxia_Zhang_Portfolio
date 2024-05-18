@@ -38,7 +38,7 @@ https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/ddea9a43-e42
 https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/be25bdb9-9018-4275-8586-35cafd6413af
 
 
-# [Project 2: Sport-Concussion-Assessment-System](https://github.com/onmoonno/Sport-Concussion-Assessment-System)
+# [Project 2: Sport Concussion Assessment System](https://github.com/onmoonno/Sport-Concussion-Assessment-System)
 
 * Applied object-oriented analysis and design (OOAD) methodologies to model system structure and behavior, employing use-case diagrams, CRC diagrams, and class diagrams.
 * Developed proficiency in foundational OOAD principles, enhancing understanding of object-oriented analysis modeling approaches.
@@ -85,3 +85,13 @@ https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/be25bdb9-901
 The primary goal of this project was to provide data-driven insights for the UVW marketing team to help them better understand their target market and support them in making informed decisions. Various exploratory data analysis methods were used to analyze the relationship between variables and locate the critical factors affecting individual salaries.
 
 ![](https://github.com/onmoonno/Critical-Factors-of-US-Individual-Salary/blob/main/figure2.png)
+
+
+# AI Projects
+
+# [Project 1: ASP Based Insurance Referee Assigning Program](https://github.com/onmoonno/ASP-Based-Insurance-Referee-Assigning-Program) 
+*	Developed an ASP-based program using Clingo to optimize insurance case assignments to referees, ensuring workload balance, region and case type matching, and cost optimization.
+*	Implemented hard constraints to ensure workload limits, region, and case type matching, and damage thresholds were met.
+*	Incorporated weak constraints for cost optimization, payment fairness, workload balance, and referee preference respect.
+*	Identified and resolved issues related to incomplete knowledge base information during testing phase.
+*	Demonstrated ability to handle complex decision-making processes accurately through ASP-based solution.
