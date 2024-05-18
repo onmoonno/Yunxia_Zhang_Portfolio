@@ -29,7 +29,19 @@ https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/ddea9a43-e42
 
 # Software Development Projects
 
-# [Project 1: Lyft Back-End Engineering Job Simulation](https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/03679578-643f-4e96-a37d-f7ab3390b510)
+# [Project 1: BMI Calculator](https://github.com/onmoonno/ASP.NET-SOAP-and-IOS-BMI-Software)
+
+* Developed ASP.NET SOAP web service and client for API calls and data processing.
+* Developed an iOS app in Swift with MVC architecture, featuring an intuitive user interface for data input, information retrieval, and web page access.
+* Employed Azure Virtual Machine for VS, facilitating cross-platform development.
+
+
+
+https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/be25bdb9-9018-4275-8586-35cafd6413af
+
+
+  
+# [Project 2: Lyft Back-End Engineering Job Simulation](https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/03679578-643f-4e96-a37d-f7ab3390b510)
 
 * Designed a robust and extendable system to determine whether vehicles in Lyft’s new rental fleet should be serviced.
 * Drafted a UML class diagram representing a new reorganized architecture.
