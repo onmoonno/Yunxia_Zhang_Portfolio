@@ -13,19 +13,21 @@ https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/ddea9a43-e42
 *	Built a custom eCommerce platform with React, Redux, Node, Express and MongoDB, featuring product search, carousel, pagination and more.
 *	Authenticated with JWT & HTTP cookies, admining customers, products and orders.
 *	Full featured shopping cart with PayPal & credit/debit payments.
-  
+
 ![image](https://github.com/onmoonno/eCommerce-Platform/blob/main/frontend/public/images/screens.png)
 
 
-# [Project 3: Local Class MERN](https://github.com/onmoonno/Local-Class) 
-* Create user interfaces with React & React Bootstrap UI library.
-* Manage state elegantly with Redux & Redux Toolkit.
-* Create an advanced API with Node.js, Express & MongoDB.
-* Authentication with JWT & HTTP-Only cookies.
-* Custom middleware for error handling, auth & more.
-* Mongoose models, controllers & routes.
-* Full stack structure & workflow.
-* Deploy to production, setup domain, SSL, etc.
+# [Project 3: Multi-Step Mars Visit Application MERN]([https://github.com/onmoonno/Local-Class](https://github.com/onmoonno/Mars-Visit-Application)) 
+
+![Demo](https://github.com/onmoonno/Mars-Visit-Application/blob/main/frontend/public/Mar%20Visit%20App%20Demo.gif)
+This project is a web application built using the MERN stack (MongoDB, Express, React, Node.js). The application is designed to handle multi-step form submissions with validation and data persistence. The data is collected from users and stored in a MongoDB database via the backend API. The form includes personal information, travel preferences, and health and safety details.
+
+- **Multi-step Form:** A step-based form process to collect user information.
+- **Form Validation:** Validates form data for required fields, email and phone formats, date consistency, and other custom rules.
+- **Data Persistence:** Stores user submissions in a MongoDB database.
+- **Responsive Design:** Built with React-Bootstrap for a mobile-friendly UI.
+- **API Integration:** Connects the frontend to the backend API for data submission and retrieval.
+
 
 # Software Development Projects
 
