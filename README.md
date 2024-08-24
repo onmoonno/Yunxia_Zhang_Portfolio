@@ -8,7 +8,8 @@
 
 https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/ddea9a43-e421-4877-99ab-367caa82f5f5
 
-# [Project 2: Multi-Step Mars Visit Application MERN]([https://github.com/onmoonno/Local-Class](https://github.com/onmoonno/Mars-Visit-Application)) 
+# [Project 2: Multi-Step Mars Visit Application MERN](https://github.com/onmoonno/Mars-Visit-Application)) 
+*[Try It Here]*(https://mars-visit-application.onrender.com/)
 
 ![Demo](https://github.com/onmoonno/Mars-Visit-Application/blob/main/frontend/public/Mar%20Visit%20App%20Demo.gif)
 
