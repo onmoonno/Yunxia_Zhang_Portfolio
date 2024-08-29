@@ -94,7 +94,7 @@ https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/be25bdb9-901
 # [Project 2: Critical Factors of US Individual Salary](https://github.com/onmoonno/Critical-Factors-of-US-Individual-Salary) 
 The primary goal of this project was to provide data-driven insights for the UVW marketing team to help them better understand their target market and support them in making informed decisions. Various exploratory data analysis methods were used to analyze the relationship between variables and locate the critical factors affecting individual salaries.
 
-![](https://github.com/onmoonno/Critical-Factors-of-US-Individual-Salary/blob/main/figure2.png)
+![](https://github.com/onmoonno/Critical-Factors-of-US-Individual-Salary/blob/main/figure4.png)
 
 
 # AI Projects
