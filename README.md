@@ -89,7 +89,15 @@ https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/be25bdb9-901
 * Utilized tools like Draw.io to construct C4 model diagrams, enabling clear communication of architectural decisions and ensuring alignment with software development life cycle (SDLC) best practices.
 * Prioritized software quality attributes in the architectural design process to enhance system maintainability, scalability, and usability, contributing to a robust and reliable online shopping platform.reation and manipulation.
   
-![alt text](https://github.com/onmoonno/forage-lyft-starter-repo/blob/main/Class%20Diagram.png)
+### Container Diagram:
+![container diagram](https://github.com/onmoonno/Online-Shopping-Store/blob/main/Container%20Diagram.png)
+
+### System Diagram:
+![system diagram](https://github.com/onmoonno/Online-Shopping-Store/blob/main/System%20Diagram.png)
+
+### Deployment Diagram:
+![deployment diagram](https://github.com/onmoonno/Online-Shopping-Store/blob/main/Deployment%20Diagram.png)
+
 
 
 # Data Science Projects
