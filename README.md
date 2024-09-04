@@ -50,10 +50,12 @@ https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/be25bdb9-901
 
 # [Project 2: Sport Concussion Assessment System](https://github.com/onmoonno/Sport-Concussion-Assessment-System)
 
-* Applied object-oriented analysis and design (OOAD) methodologies to model system structure and behavior, employing use-case diagrams, CRC diagrams, and class diagrams.
-* Developed proficiency in foundational OOAD principles, enhancing understanding of object-oriented analysis modeling approaches.
-* Gained practical experience in utilizing Astah and Draw.io for UML documentation, streamlining the process of capturing system requirements and design.
-* Acquired hands-on skills in Java programming for implementing console applications, featuring symptom input, severity evaluation, and risk assessment.
+* Conducted object-oriented analysis and design (OOAD) to develop a sports concussion assessment application, focusing on requirements elicitation, system object identification, and user scenario analysis to enhance athlete health monitoring.
+* Designed and documented UML artifacts including use-case diagrams, CRC (Class-Responsibility-Collaborator) diagrams, class diagrams, sequence diagrams, and state diagrams to model system structure and behavior, ensuring comprehensive understanding and effective stakeholder communication.
+* Implemented a Java-based console application that enables athletes to input symptoms, generates symptom summaries, and provides sports medical practitioners with tools for risk assessment, including severity score calculations and condition tracking.
+* Developed a user-friendly interface for athletes to enter symptom evaluations and for practitioners to review symptoms, calculate severity differences between games, and receive risk indicators for better decision-making and athlete management.
+* Leveraged tools like Astah and Draw.io to create detailed object-oriented models and visual representations of system components, facilitating efficient software development and system architecture planning.
+* Applied Java programming and OOAD principles to create modular, reusable software components, enhancing system maintainability and scalability, while adhering to software engineering best practices.
 
 ![alt text](https://github.com/onmoonno/Sport-Concussion-Assessment-System/blob/main/Use%20Case%20Diagram.png)
 ![alt text](https://github.com/onmoonno/Sport-Concussion-Assessment-System/blob/main/Class%20diagram.png)
@@ -61,21 +63,32 @@ https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/be25bdb9-901
 
 # [Project 3: Directory Management System](https://github.com/onmoonno/Directory-Management-System/tree/main)
 
-* Designed a robust and extendable system to determine whether vehicles in Lyft’s new rental fleet should be serviced.
-* Drafted a UML class diagram representing a new reorganized architecture.
-* Refactored the codebase with Factory and Strategy design pattern for multiple product creation and manipulation.
-* Implemented unit tests and added new functionality using test-driven development.
+* Evaluated and refactored the Personnel Directory Management System, addressing object-oriented design violations and coupling issues to enhance system quality and modifiability.
+* Implemented the factory pattern in Java's PersonnelFactory class, reducing dependencies and promoting flexibility for accommodating additional personnel types.
+* Developed modularized system components, including PersonnelDirectory and Concrete classes, to maintain original functionality while improving efficiency and scalability.
+* Acquired skills in UML class diagram evaluation, identifying and resolving object-oriented design violations, and applying design patterns for more robust software solutions.
+
 
 ![alt text](https://github.com/onmoonno/Directory-Management-System/blob/main/Phase%202%20class%20diagram2.png)
 
   
 # [Project 4: Lyft Back-End Engineering Job Simulation](https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/03679578-643f-4e96-a37d-f7ab3390b510)
 
-* Evaluated and refactored the Personnel Directory Management System, addressing object-oriented design violations and coupling issues to enhance system quality and modifiability.
-* Implemented the factory pattern in Java's PersonnelFactory class, reducing dependencies and promoting flexibility for accommodating additional personnel types.
-* Developed modularized system components, including PersonnelDirectory and Concrete classes, to maintain original functionality while improving efficiency and scalability.
-* Acquired skills in UML class diagram evaluation, identifying and resolving object-oriented design violations, and applying design patterns for more robust software solutions.
+* Designed a robust and extendable system to determine whether vehicles in Lyft’s new rental fleet should be serviced.
+* Drafted a UML class diagram representing a new reorganized architecture.
+* Refactored the codebase with Factory and Strategy design pattern for multiple product creation and manipulation.
+* Implemented unit tests and added new functionality using test-driven development.
+  
+![alt text](https://github.com/onmoonno/forage-lyft-starter-repo/blob/main/Class%20Diagram.png)
 
+# [Project 5: Online Shopping Store](https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/03679578-643f-4e96-a37d-f7ab3390b510)
+
+* Developed measurable and testable quality attribute scenarios for a client-server web application, focusing on critical factors like time behavior, confidentiality, and recoverability to ensure system reliability and security.
+* Created comprehensive software architecture documentation using the C4 modeling approach, including system, container, and deployment diagrams, to visualize components and interactions, supporting effective software architecture implementation.
+* Conducted performance testing, security testing, and recoverability testing to validate system resilience under various conditions, ensuring adherence to industry standards for confidentiality and minimizing downtime to under 10 minutes.
+* Utilized tools like Draw.io to construct C4 model diagrams, enabling clear communication of architectural decisions and ensuring alignment with software development life cycle (SDLC) best practices.
+* Prioritized software quality attributes in the architectural design process to enhance system maintainability, scalability, and usability, contributing to a robust and reliable online shopping platform.reation and manipulation.
+  
 ![alt text](https://github.com/onmoonno/forage-lyft-starter-repo/blob/main/Class%20Diagram.png)
 
 
