@@ -63,11 +63,11 @@ https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/be25bdb9-901
 
 # [Project 3: Directory Management System](https://github.com/onmoonno/Directory-Management-System/tree/main)
 
-* Evaluated and refactored the Personnel Directory Management System, addressing object-oriented design violations and coupling issues to enhance system quality and modifiability.
-* Implemented the factory pattern in Java's PersonnelFactory class, reducing dependencies and promoting flexibility for accommodating additional personnel types.
-* Developed modularized system components, including PersonnelDirectory and Concrete classes, to maintain original functionality while improving efficiency and scalability.
-* Acquired skills in UML class diagram evaluation, identifying and resolving object-oriented design violations, and applying design patterns for more robust software solutions.
-
+* Refactored a legacy Java system by addressing object-oriented design violations and eliminating content, common, and control coupling issues, significantly enhancing code quality, maintainability, and modifiability.
+* Applied UML class diagram analysis to identify design flaws and restructured key components to promote low coupling and high cohesion, improving system scalability and flexibility.
+* Implemented the Factory Pattern in the PersonnelFactory class to manage different types of personnel, providing a scalable architecture that supports future extensions and reduces dependencies.
+* Encapsulated data and logic by making class fields private and introducing getter and setter methods, ensuring proper information hiding and compliance with encapsulation principles.
+* Developed and extended system functionalities, including personnel management features (adding, searching, and displaying personnel), ensuring robust performance and alignment with software development life cycle (SDLC) practices.
 
 ![alt text](https://github.com/onmoonno/Directory-Management-System/blob/main/Phase%202%20class%20diagram2.png)
 
