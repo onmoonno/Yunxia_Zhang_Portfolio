@@ -72,7 +72,7 @@ https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/be25bdb9-901
 ![alt text](https://github.com/onmoonno/Directory-Management-System/blob/main/Phase%202%20class%20diagram2.png)
 
   
-# [Project 4: Lyft Back-End Engineering Job Simulation](https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/03679578-643f-4e96-a37d-f7ab3390b510)
+# [Project 4: Lyft Back-End Engineering Job Simulation](https://github.com/onmoonno/forage-lyft-starter-repo)
 
 * Designed a robust and extendable system to determine whether vehicles in Lyft’s new rental fleet should be serviced.
 * Drafted a UML class diagram representing a new reorganized architecture.
