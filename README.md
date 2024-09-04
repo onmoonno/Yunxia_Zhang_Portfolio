@@ -92,8 +92,6 @@ https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/be25bdb9-901
 ### Container Diagram:
 ![container diagram](https://github.com/onmoonno/Online-Shopping-Store/blob/main/Container%20Diagram.png)
 
-### System Diagram:
-![system diagram](https://github.com/onmoonno/Online-Shopping-Store/blob/main/System%20Diagram.png)
 
 ### Deployment Diagram:
 ![deployment diagram](https://github.com/onmoonno/Online-Shopping-Store/blob/main/Deployment%20Diagram.png)
