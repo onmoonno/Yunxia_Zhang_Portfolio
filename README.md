@@ -26,7 +26,7 @@ This project is a web application built using the MERN stack (MongoDB, Express, 
 
   
 
-# [Project 3: eCommerce Platform MERN](https://github.com/onmoonno/eCommerce-Platform) 
+# [Project 3: eCommerce Platform MERN](https://github.com/onmoonno/proshop) 
 *	Built a custom eCommerce platform with React, Redux, Node, Express and MongoDB, featuring product search, carousel, pagination and more.
 *	Authenticated with JWT & HTTP cookies, admining customers, products and orders.
 *	Full featured shopping cart with PayPal & credit/debit payments.
