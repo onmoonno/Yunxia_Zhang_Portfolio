@@ -115,6 +115,13 @@ The primary goal of this project was to provide data-driven insights for the UVW
 
 ![](https://github.com/onmoonno/Critical-Factors-of-US-Individual-Salary/blob/main/figure4.png)
 
+# [Project 3: Job Marketing 2023 SQL Analysis](https://github.com/onmoonno/SQL-Project-Job-Marketing) 
+* Developed complex SQL queries using JOINs, CTE (Common Table Expressions), and subqueries to analyze job market data, identifying top-paying data analyst roles and the most in-demand skills in the industry.
+
+* Leveraged advanced SQL functions like GROUP BY, COUNT(), AVG(), and ORDER BY to aggregate and rank data, revealing high-demand skills associated with higher salaries for data analysts.
+
+* Optimized SQL scripts for performance and readability by utilizing window functions, temporary tables, and effective indexing strategies, enabling efficient data extraction and insights generation from large datasets.
+
 
 # AI Projects
 
