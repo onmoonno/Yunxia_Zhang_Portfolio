@@ -54,9 +54,17 @@ ___
 
 https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/ddea9a43-e421-4877-99ab-367caa82f5f5
 
+  
+
+# [Project 2: eCommerce Platform MERN](https://github.com/onmoonno/proshop) 
+*	Built a custom eCommerce platform with React, Redux, Node, Express and MongoDB, featuring product search, carousel, pagination and more.
+*	Authenticated with JWT & HTTP cookies, admining customers, products and orders.
+*	Full featured shopping cart with PayPal & credit/debit payments.
+
+![image](https://github.com/onmoonno/eCommerce-Platform/blob/main/frontend/public/images/screens.png)
 
 
-# [Project 2: Multi-Step Mars Visit Application MERN](https://github.com/onmoonno/Mars-Visit-Application)
+# [Project 3: Multi-Step Mars Visit Application MERN](https://github.com/onmoonno/Mars-Visit-Application)
 
 ## Deployed on Render: https://mars-visit-application.onrender.com
 
@@ -69,16 +77,6 @@ This project is a web application built using the MERN stack (MongoDB, Express, 
 - **Data Persistence:** Stores user submissions in a MongoDB database.
 - **Responsive Design:** Built with React-Bootstrap for a mobile-friendly UI.
 - **API Integration:** Connects the frontend to the backend API for data submission and retrieval.
-
-  
-
-# [Project 3: eCommerce Platform MERN](https://github.com/onmoonno/proshop) 
-*	Built a custom eCommerce platform with React, Redux, Node, Express and MongoDB, featuring product search, carousel, pagination and more.
-*	Authenticated with JWT & HTTP cookies, admining customers, products and orders.
-*	Full featured shopping cart with PayPal & credit/debit payments.
-
-![image](https://github.com/onmoonno/eCommerce-Platform/blob/main/frontend/public/images/screens.png)
-
 
 
 ___
