@@ -1,4 +1,4 @@
-# AI Projects
+# Machine Learnign & AI Projects
 
 # [AI: Neural Network for Collision Prediction Project](https://github.com/onmoonno/ASP-Based-Insurance-Referee-Assigning-Program) 
 *	Developed a machine learning model using PyTorch to teach a small robot to navigate a room and avoid obstacles by predicting potential collisions.
@@ -24,7 +24,7 @@
 *	Demonstrated ability to handle complex decision-making processes accurately through ASP-based solution.
 ***
 
-# Data Science Projects
+# Machine Learning & Data Science Projects
 
 # [Data Mining: Glucose Levels in Artificial Pancreas](https://github.com/onmoonno/Data-Mining-Project-Glucose-Levels-in-Artificial-Pancreas) 
 * Developed a recognition system integrating supervised and unsupervised machine learning techniques for analyzing time series data from two asynchronously operated Medtronic 670G systems collected at 5-minute intervals over a 7-day period.
