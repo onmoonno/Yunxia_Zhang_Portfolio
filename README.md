@@ -1,3 +1,49 @@
+# AI Projects
+
+# [AI: Neural Network for Collision Prediction Project](https://github.com/onmoonno/ASP-Based-Insurance-Referee-Assigning-Program) 
+*	Developed a machine learning model using PyTorch to teach a small robot to navigate a room and avoid obstacles by predicting potential collisions.
+*	Collected and labeled training data to train a neural network, ensuring accurate predictions for obstacle avoidance.
+*	Designed, trained, and tested a neural network for real-time collision prediction, improving the robot's decision-making and movement efficiency.
+*	Implemented and evaluated the model in a simulated environment, optimizing network performance for generalization in new scenarios.
+
+# [Generative AI & LLM: Ice Breaker](https://github.com/onmoonno/ASP-Based-Insurance-Referee-Assigning-Program) 
+* Designed and implemented the applicaZon using LangChain, showcasing experZse in chains, agents, document loaders, text spli_ers, output parsers, and memory management.
+* Integrated third-party APIs (ProxyURL, SerpAPI, Twi_er API) to scrape data from the internet, enabling the applicaZon to find LinkedIn and Twi_er profiles based on user input.
+
+# [Knowledge Reasoning: ASP Based Insurance Referee Assigning Program](https://github.com/onmoonno/ASP-Based-Insurance-Referee-Assigning-Program) 
+*	Developed an ASP-based program using Clingo to optimize insurance case assignments to referees, ensuring workload balance, region and case type matching, and cost optimization.
+*	Implemented hard constraints to ensure workload limits, region, and case type matching, and damage thresholds were met.
+*	Incorporated weak constraints for cost optimization, payment fairness, workload balance, and referee preference respect.
+*	Identified and resolved issues related to incomplete knowledge base information during testing phase.
+*	Demonstrated ability to handle complex decision-making processes accurately through ASP-based solution.
+<br />
+
+# Data Science Projects
+
+# [Data Mining: Glucose Levels in Artificial Pancreas](https://github.com/onmoonno/Data-Mining-Project-Glucose-Levels-in-Artificial-Pancreas) 
+* Developed a recognition system integrating supervised and unsupervised machine learning techniques for analyzing time series data from two asynchronously operated Medtronic 670G systems collected at 5-minute intervals over a 7-day period.
+* Implemented adaptive data cleaning and extracted features, including Fast Fourier Transform (FFT) and Entropy calculations, as well as time span, from the time series dataset.
+* Distinguished meal and no meal time series data through the training and testing of machine models, employing sklearn k-fold cross-validation for robust model training.
+* Trained Support Vector Machine (SVM) and Decision Tree Machine (DT), achieving a noteworthy DT F1-score of 77% and an Accuracy of 81%. Extracted ground truth and performed clustering using DBSCAN and Kmeans, attaining minimal DBSCAN entropy of 0.22 and maximum DBSCAN purity of 0.83.
+
+
+![](/images/positions_by_state.png)
+
+
+# [Data Visualization: Critical Factors of US Individual Salary](https://github.com/onmoonno/Critical-Factors-of-US-Individual-Salary) 
+The primary goal of this project was to provide data-driven insights for the UVW marketing team to help them better understand their target market and support them in making informed decisions. Various exploratory data analysis methods were used to analyze the relationship between variables and locate the critical factors affecting individual salaries.
+
+![](https://github.com/onmoonno/Critical-Factors-of-US-Individual-Salary/blob/main/figure4.png)
+
+# [DataBase and SQL: Job Marketing 2023 SQL Analysis](https://github.com/onmoonno/SQL-Project-Job-Marketing) 
+![top_demanded_skills](https://github.com/onmoonno/SQL-Project-Job-Marketing/blob/main/assets/top_demanded_skills.png)
+* Developed complex SQL queries using JOINs, CTE (Common Table Expressions), and subqueries to analyze job market data, identifying top-paying data analyst roles and the most in-demand skills in the industry.
+* Leveraged advanced SQL functions like GROUP BY, COUNT(), AVG(), and ORDER BY to aggregate and rank data, revealing high-demand skills associated with higher salaries for data analysts.
+* Optimized SQL scripts for performance and readability by utilizing window functions, temporary tables, and effective indexing strategies, enabling efficient data extraction and insights generation from large datasets.
+
+
+<br />
+
 # Web Development Projects
 
 # [Project 1: Cookful Full Stack Web Development](https://github.com/onmoonno/Cookful-Project) 
@@ -35,7 +81,7 @@ This project is a web application built using the MERN stack (MongoDB, Express, 
 
 
 
-
+<br />
 
 # Software Development Projects
 
@@ -98,37 +144,3 @@ https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/be25bdb9-901
 
 
 
-# Data Science Projects
-
-# [Project 1: Glucose Levels in Artificial Pancreas](https://github.com/onmoonno/Data-Mining-Project-Glucose-Levels-in-Artificial-Pancreas) 
-* Developed a recognition system integrating supervised and unsupervised machine learning techniques for analyzing time series data from two asynchronously operated Medtronic 670G systems collected at 5-minute intervals over a 7-day period.
-* Implemented adaptive data cleaning and extracted features, including Fast Fourier Transform (FFT) and Entropy calculations, as well as time span, from the time series dataset.
-* Distinguished meal and no meal time series data through the training and testing of machine models, employing sklearn k-fold cross-validation for robust model training.
-* Trained Support Vector Machine (SVM) and Decision Tree Machine (DT), achieving a noteworthy DT F1-score of 77% and an Accuracy of 81%. Extracted ground truth and performed clustering using DBSCAN and Kmeans, attaining minimal DBSCAN entropy of 0.22 and maximum DBSCAN purity of 0.83.
-
-
-![](/images/positions_by_state.png)
-
-
-# [Project 2: Critical Factors of US Individual Salary](https://github.com/onmoonno/Critical-Factors-of-US-Individual-Salary) 
-The primary goal of this project was to provide data-driven insights for the UVW marketing team to help them better understand their target market and support them in making informed decisions. Various exploratory data analysis methods were used to analyze the relationship between variables and locate the critical factors affecting individual salaries.
-
-![](https://github.com/onmoonno/Critical-Factors-of-US-Individual-Salary/blob/main/figure4.png)
-
-# [Project 3: Job Marketing 2023 SQL Analysis](https://github.com/onmoonno/SQL-Project-Job-Marketing) 
-![top_demanded_skills](https://github.com/onmoonno/SQL-Project-Job-Marketing/blob/main/assets/top_demanded_skills.png)
-* Developed complex SQL queries using JOINs, CTE (Common Table Expressions), and subqueries to analyze job market data, identifying top-paying data analyst roles and the most in-demand skills in the industry.
-
-* Leveraged advanced SQL functions like GROUP BY, COUNT(), AVG(), and ORDER BY to aggregate and rank data, revealing high-demand skills associated with higher salaries for data analysts.
-
-* Optimized SQL scripts for performance and readability by utilizing window functions, temporary tables, and effective indexing strategies, enabling efficient data extraction and insights generation from large datasets.
-
-
-# AI Projects
-
-# [Project 1: ASP Based Insurance Referee Assigning Program](https://github.com/onmoonno/ASP-Based-Insurance-Referee-Assigning-Program) 
-*	Developed an ASP-based program using Clingo to optimize insurance case assignments to referees, ensuring workload balance, region and case type matching, and cost optimization.
-*	Implemented hard constraints to ensure workload limits, region, and case type matching, and damage thresholds were met.
-*	Incorporated weak constraints for cost optimization, payment fairness, workload balance, and referee preference respect.
-*	Identified and resolved issues related to incomplete knowledge base information during testing phase.
-*	Demonstrated ability to handle complex decision-making processes accurately through ASP-based solution.
