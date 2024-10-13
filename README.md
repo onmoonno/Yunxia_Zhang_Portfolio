@@ -10,6 +10,12 @@
 * Designed and implemented the applicaZon using LangChain, showcasing experZse in chains, agents, document loaders, text spli_ers, output parsers, and memory management.
 * Integrated third-party APIs (ProxyURL, SerpAPI, Twi_er API) to scrape data from the internet, enabling the applicaZon to find LinkedIn and Twi_er profiles based on user input.
 
+  
+# [Azure AI studio, Generative AI & LLM: Multi_Modal AI System](https://github.com/onmoonno/ASP-Based-Insurance-Referee-Assigning-Program) 
+* Developed and deployed AI-powered applicaZons leveraging Azure AI Studio and advanced Large Language Models (LLMs), incorporaZng custom Python funcZons and APIs to automate workflows.
+* Used Retrieval-Augmented Genera[on (RAG) to incorporate diverse data sources including PDF, Excel, and txt.
+* Combined LLMs with Azure’s vision, speech, and document intelligence services to enhance user interacZon.
+
 # [Knowledge Reasoning: ASP Based Insurance Referee Assigning Program](https://github.com/onmoonno/ASP-Based-Insurance-Referee-Assigning-Program) 
 *	Developed an ASP-based program using Clingo to optimize insurance case assignments to referees, ensuring workload balance, region and case type matching, and cost optimization.
 *	Implemented hard constraints to ensure workload limits, region, and case type matching, and damage thresholds were met.
