@@ -16,7 +16,7 @@
 *	Incorporated weak constraints for cost optimization, payment fairness, workload balance, and referee preference respect.
 *	Identified and resolved issues related to incomplete knowledge base information during testing phase.
 *	Demonstrated ability to handle complex decision-making processes accurately through ASP-based solution.
-<br />
+***
 
 # Data Science Projects
 
@@ -42,7 +42,7 @@ The primary goal of this project was to provide data-driven insights for the UVW
 * Optimized SQL scripts for performance and readability by utilizing window functions, temporary tables, and effective indexing strategies, enabling efficient data extraction and insights generation from large datasets.
 
 
-<br />
+___
 
 # Web Development Projects
 
@@ -81,7 +81,7 @@ This project is a web application built using the MERN stack (MongoDB, Express, 
 
 
 
-<br />
+___
 
 # Software Development Projects
 
