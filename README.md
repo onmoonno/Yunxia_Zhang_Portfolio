@@ -1,6 +1,6 @@
 # Machine Learnign & AI Projects
 
-# [AI: Neural Network for Collision Prediction Project](https://github.com/onmoonno/ASP-Based-Insurance-Referee-Assigning-Program) 
+# [AI: Neural Network for Collision Prediction Project](https://github.com/onmoonno/AI-Neural-Network-for-Collision-Prediction-Project/tree/main) 
 *	Developed a machine learning model using PyTorch to teach a small robot to navigate a room and avoid obstacles by predicting potential collisions.
 *	Collected and labeled training data to train a neural network, ensuring accurate predictions for obstacle avoidance.
 *	Designed, trained, and tested a neural network for real-time collision prediction, improving the robot's decision-making and movement efficiency.
