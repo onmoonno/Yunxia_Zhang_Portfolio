@@ -5,6 +5,7 @@
 *	Collected and labeled training data to train a neural network, ensuring accurate predictions for obstacle avoidance.
 *	Designed, trained, and tested a neural network for real-time collision prediction, improving the robot's decision-making and movement efficiency.
 *	Implemented and evaluated the model in a simulated environment, optimizing network performance for generalization in new scenarios.
+![](https://github.com/onmoonno/AI-Neural-Network-for-Collision-Prediction-Project/blob/main/Screenshot%202024-10-28%20at%203.14.50%20PM.png)	
 
 # [Generative AI & LLM: Ice Breaker](https://github.com/onmoonno/Ice-Breaker-Web-App) 
 * Designed and implemented the applicaZon using LangChain, showcasing experZse in chains, agents, document loaders, text spli_ers, output parsers, and memory management.
