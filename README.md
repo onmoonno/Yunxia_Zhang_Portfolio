@@ -6,7 +6,7 @@
 *	Designed, trained, and tested a neural network for real-time collision prediction, improving the robot's decision-making and movement efficiency.
 *	Implemented and evaluated the model in a simulated environment, optimizing network performance for generalization in new scenarios.
 
-# [Generative AI & LLM: Ice Breaker](https://github.com/onmoonno/ASP-Based-Insurance-Referee-Assigning-Program) 
+# [Generative AI & LLM: Ice Breaker](https://github.com/onmoonno/Ice-Breaker-Web-App) 
 * Designed and implemented the applicaZon using LangChain, showcasing experZse in chains, agents, document loaders, text spli_ers, output parsers, and memory management.
 * Integrated third-party APIs (ProxyURL, SerpAPI, Twi_er API) to scrape data from the internet, enabling the applicaZon to find LinkedIn and Twi_er profiles based on user input.
 
