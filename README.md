@@ -1,12 +1,18 @@
-# Machine Learning & Data Science Projects
+# Machine Learnign & AI Projects
 
+# [AI: Neural Network for Collision Prediction Project](https://github.com/onmoonno/AI-Neural-Network-for-Collision-Prediction-Project/tree/main) 
+*	Developed a machine learning model using PyTorch to teach a small robot to navigate a room and avoid obstacles by predicting potential collisions.
+*	Collected and labeled training data to train a neural network, ensuring accurate predictions for obstacle avoidance.
+*	Designed, trained, and tested a neural network for real-time collision prediction, improving the robot's decision-making and movement efficiency.
+*	Implemented and evaluated the model in a simulated environment, optimizing network performance for generalization in new scenarios.
+![](https://github.com/onmoonno/AI-Neural-Network-for-Collision-Prediction-Project/blob/main/Screenshot%202024-10-28%20at%203.14.50%20PM.png)	# Machine Learning & Data Science Projects
+***
+___
 # [Data Mining: Glucose Levels in Artificial Pancreas](https://github.com/onmoonno/Data-Mining-Project-Glucose-Levels-in-Artificial-Pancreas) 
 * Developed a recognition system integrating supervised and unsupervised machine learning techniques for analyzing time series data from two asynchronously operated Medtronic 670G systems collected at 5-minute intervals over a 7-day period.
 * Implemented adaptive data cleaning and extracted features, including Fast Fourier Transform (FFT) and Entropy calculations, as well as time span, from the time series dataset.
 * Distinguished meal and no meal time series data through the training and testing of machine models, employing sklearn k-fold cross-validation for robust model training.
 * Trained Support Vector Machine (SVM) and Decision Tree Machine (DT), achieving a noteworthy DT F1-score of 77% and an Accuracy of 81%. Extracted ground truth and performed clustering using DBSCAN and Kmeans, attaining minimal DBSCAN entropy of 0.22 and maximum DBSCAN purity of 0.83.
-
-
 ![](/images/positions_by_state.png)
 
 
@@ -21,36 +27,14 @@ The primary goal of this project was to provide data-driven insights for the UVW
 * Leveraged advanced SQL functions like GROUP BY, COUNT(), AVG(), and ORDER BY to aggregate and rank data, revealing high-demand skills associated with higher salaries for data analysts.
 * Optimized SQL scripts for performance and readability by utilizing window functions, temporary tables, and effective indexing strategies, enabling efficient data extraction and insights generation from large datasets.
 
-
-___
-# Machine Learnign & AI Projects
-
-# [AI: Neural Network for Collision Prediction Project](https://github.com/onmoonno/AI-Neural-Network-for-Collision-Prediction-Project/tree/main) 
-*	Developed a machine learning model using PyTorch to teach a small robot to navigate a room and avoid obstacles by predicting potential collisions.
-*	Collected and labeled training data to train a neural network, ensuring accurate predictions for obstacle avoidance.
-*	Designed, trained, and tested a neural network for real-time collision prediction, improving the robot's decision-making and movement efficiency.
-*	Implemented and evaluated the model in a simulated environment, optimizing network performance for generalization in new scenarios.
-![](https://github.com/onmoonno/AI-Neural-Network-for-Collision-Prediction-Project/blob/main/Screenshot%202024-10-28%20at%203.14.50%20PM.png)	
-
-# [Generative AI & LLM: Ice Breaker](https://github.com/onmoonno/Ice-Breaker-Web-App) 
-* Designed and implemented the applicaZon using LangChain, showcasing experZse in chains, agents, document loaders, text spli_ers, output parsers, and memory management.
-* Integrated third-party APIs (ProxyURL, SerpAPI, Twi_er API) to scrape data from the internet, enabling the applicaZon to find LinkedIn and Twi_er profiles based on user input.
-
-  
-# [Azure AI studio, Generative AI & LLM: Multi_Modal AI System](https://github.com/onmoonno/ASP-Based-Insurance-Referee-Assigning-Program) 
-* Developed and deployed AI-powered applicaZons leveraging Azure AI Studio and advanced Large Language Models (LLMs), incorporaZng custom Python funcZons and APIs to automate workflows.
-* Used Retrieval-Augmented Genera[on (RAG) to incorporate diverse data sources including PDF, Excel, and txt.
-* Combined LLMs with Azure’s vision, speech, and document intelligence services to enhance user interacZon.
-
 # [Knowledge Reasoning: ASP Based Insurance Referee Assigning Program](https://github.com/onmoonno/ASP-Based-Insurance-Referee-Assigning-Program) 
 *	Developed an ASP-based program using Clingo to optimize insurance case assignments to referees, ensuring workload balance, region and case type matching, and cost optimization.
 *	Implemented hard constraints to ensure workload limits, region, and case type matching, and damage thresholds were met.
 *	Incorporated weak constraints for cost optimization, payment fairness, workload balance, and referee preference respect.
 *	Identified and resolved issues related to incomplete knowledge base information during testing phase.
-*	Demonstrated ability to handle complex decision-making processes accurately through ASP-based solution.
-***
+*	Demonstrated ability to handle complex decision-making processes accurately through ASP-based solution
 
-
+___
 # Web Development Projects
 
 # [Project 1: Cookful Full Stack Web Development](https://github.com/onmoonno/Cookful-Project) 
@@ -90,7 +74,16 @@ ___
 
 # Software Development Projects
 
-# [Project 1: BMI Calculator](https://github.com/onmoonno/ASP.NET-SOAP-and-IOS-BMI-Software)
+# [Project 1: Lyft Back-End Engineering Job Simulation](https://github.com/onmoonno/forage-lyft-starter-repo)
+
+* Designed a robust and extendable system to determine whether vehicles in Lyft’s new rental fleet should be serviced.
+* Drafted a UML class diagram representing a new reorganized architecture.
+* Refactored the codebase with Factory and Strategy design pattern for multiple product creation and manipulation.
+* Implemented unit tests and added new functionality using test-driven development.
+  
+![alt text](https://github.com/onmoonno/forage-lyft-starter-repo/blob/main/Class%20Diagram.png)
+
+# [Project 2: BMI Calculator](https://github.com/onmoonno/ASP.NET-SOAP-and-IOS-BMI-Software)
 
 * Developed ASP.NET SOAP web service and client for API calls and data processing.
 * Developed an iOS app in Swift with MVC architecture, featuring an intuitive user interface for data input, information retrieval, and web page access.
@@ -99,7 +92,7 @@ ___
 https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/be25bdb9-9018-4275-8586-35cafd6413af
 
 
-# [Project 2: Sport Concussion Assessment System](https://github.com/onmoonno/Sport-Concussion-Assessment-System)
+# [Project 3: Sport Concussion Assessment System](https://github.com/onmoonno/Sport-Concussion-Assessment-System)
 
 * Conducted object-oriented analysis and design (OOAD) to develop a sports concussion assessment application, focusing on requirements elicitation, system object identification, and user scenario analysis to enhance athlete health monitoring.
 * Designed and documented UML artifacts including use-case diagrams, CRC (Class-Responsibility-Collaborator) diagrams, class diagrams, sequence diagrams, and state diagrams to model system structure and behavior, ensuring comprehensive understanding and effective stakeholder communication.
@@ -112,7 +105,7 @@ https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/be25bdb9-901
 ![alt text](https://github.com/onmoonno/Sport-Concussion-Assessment-System/blob/main/Class%20diagram.png)
 
 
-# [Project 3: Directory Management System](https://github.com/onmoonno/Directory-Management-System/tree/main)
+# [Project 4: Directory Management System](https://github.com/onmoonno/Directory-Management-System/tree/main)
 
 * Refactored a legacy Java system by addressing object-oriented design violations and eliminating content, common, and control coupling issues, significantly enhancing code quality, maintainability, and modifiability.
 * Applied UML class diagram analysis to identify design flaws and restructured key components to promote low coupling and high cohesion, improving system scalability and flexibility.
@@ -122,15 +115,7 @@ https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/be25bdb9-901
 
 ![alt text](https://github.com/onmoonno/Directory-Management-System/blob/main/Phase%202%20class%20diagram2.png)
 
-  
-# [Project 4: Lyft Back-End Engineering Job Simulation](https://github.com/onmoonno/forage-lyft-starter-repo)
 
-* Designed a robust and extendable system to determine whether vehicles in Lyft’s new rental fleet should be serviced.
-* Drafted a UML class diagram representing a new reorganized architecture.
-* Refactored the codebase with Factory and Strategy design pattern for multiple product creation and manipulation.
-* Implemented unit tests and added new functionality using test-driven development.
-  
-![alt text](https://github.com/onmoonno/forage-lyft-starter-repo/blob/main/Class%20Diagram.png)
 
 # [Project 5: Online Shopping Store](https://github.com/onmoonno/Yunxia_Zhang_Portfolio/assets/109721201/03679578-643f-4e96-a37d-f7ab3390b510)
 
