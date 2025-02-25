@@ -6,8 +6,12 @@
 *	Designed, trained, and tested a neural network for real-time collision prediction, improving the robot's decision-making and movement efficiency.
 *	Implemented and evaluated the model in a simulated environment, optimizing network performance for generalization in new scenarios.
 ![](https://github.com/onmoonno/AI-Neural-Network-for-Collision-Prediction-Project/blob/main/Screenshot%202024-10-28%20at%203.14.50%20PM.png)	# Machine Learning & Data Science Projects
-***
-___
+
+# [AI: Classification Using CNN and Deep Learning Project](https://github.com/onmoonno/Classification-Using-Convolutional-Neural-Network-CNN-and-Deep-Learning-Project) 
+*	Designed, implemented, and trained a Convolutional Neural Network (CNN) for visual classification using the MNIST dataset, leveraging Python, TensorFlow, Keras, and NumPy to build layers including convolutional, pooling, fully-connected, and activation layers, achieving high accuracy in handwritten digit recognition tasks.
+* Developed custom evaluation code to compute training and testing accuracy and loss, utilized Matplotlib for visualizing performance metrics, and analyzed the impact of hyperparameter changes on network behavior and performance over multiple epochs.
+![](https://github.com/onmoonno/Classification-Using-Convolutional-Neural-Network-CNN-and-Deep-Learning-Project/blob/main/baseline%2032.png)	# 
+
 # [Data Mining: Glucose Levels in Artificial Pancreas](https://github.com/onmoonno/Data-Mining-Project-Glucose-Levels-in-Artificial-Pancreas) 
 * Developed a recognition system integrating supervised and unsupervised machine learning techniques for analyzing time series data from two asynchronously operated Medtronic 670G systems collected at 5-minute intervals over a 7-day period.
 * Implemented adaptive data cleaning and extracted features, including Fast Fourier Transform (FFT) and Entropy calculations, as well as time span, from the time series dataset.
